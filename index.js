@@ -9,20 +9,20 @@ function myFunction() {
   }
 
   function myFunction3() { 
-    document.getElementById("demo").innerHTML = "falso";
+    document.getElementById("demo3").innerHTML = "falso";
   }
   function myFunction4() { 
-    document.getElementById("demo1").innerHTML = "verdadero";
+    document.getElementById("demo4").innerHTML = "verdadero";
   }
   function myFunction5() { 
-    document.getElementById("demo2").innerHTML = "falso";
+    document.getElementById("demo5").innerHTML = "falso";
   }
   function myFunction6() { 
-    document.getElementById("demo").innerHTML = "falso";
+    document.getElementById("demo6").innerHTML = "falso";
   }
   function myFunction7() { 
-    document.getElementById("demo1").innerHTML = "falso";
+    document.getElementById("demo7").innerHTML = "falso";
   }
   function myFunction8() { 
-    document.getElementById("demo2").innerHTML = "verdadero";
+    document.getElementById("demo8").innerHTML = "verdadero";
   }
